@@ -4,5 +4,3 @@ I’m Ritesh Shrestha from Nepal, a Master’s graduate in Economics with over 1
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RittheGit)](https://github.com/anuraghazra/github-readme-stats)
 
-
-|[![1 (Custom)](https://github.com/user-attachments/assets/ee3b2978-5eec-4b69-933e-28663d0de645)](https://github.com/shresnit/SQL-Challenges/blob/main/8-Weeks-SQL-Challenges/CaseStudy%231-Danny'sDinner/SQL-Solution-Danny's%20Dinner.md)| 
