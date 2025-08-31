@@ -4,4 +4,4 @@ I’m Ritesh Shrestha from Nepal, a Master’s graduate in Economics with over 1
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RittheGit)](https://github.com/anuraghazra/github-readme-stats)
 
-[![[LinkedIn](https://www.linkedin.com/feed/)](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[[![[LinkedIn](https://www.linkedin.com/feed/)](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
