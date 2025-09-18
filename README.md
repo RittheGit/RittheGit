@@ -10,4 +10,6 @@ I’m Ritesh Shrestha from Nepal, a Master’s graduate in Economics with over 1
 </a>
 
 ## Preppin' Data Challenges in PYTHON and SQL
-
+<a href="https://github.com/RittheGit/Preppin-_Data_Challenges/blob/main/README.md">
+  <img src="https://github.com/RittheGit/Preppin-_Data_Challenges/blob/main/preppindata.png?raw=true" width="200">
+</a>
