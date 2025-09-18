@@ -8,3 +8,6 @@ I’m Ritesh Shrestha from Nepal, a Master’s graduate in Economics with over 1
 <a href="https://github.com/RittheGit/8-Week-SQL-Challenge/edit/main/README.md">
   <img src="https://user-images.githubusercontent.com/120476961/226283774-dc5f5404-d93b-49f6-9bab-6e4f5a34d262.png" width="200">
 </a>
+
+## Preppin' Data Challenges in PYTHON and SQL
+
